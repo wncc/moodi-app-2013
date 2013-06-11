@@ -1,0 +1,12 @@
+
+    <resources>
+        <string-array name="main_menu">
+            <item name="map">map</item>
+            <item name="events">events</item>
+            <item name="scedules">schedules</item>
+            <item name="contactus">contact us</item>
+            <item name="registration">registration</item>
+            <item name="settings">settings</item>
+            <item name="results">results</item>
+        </string-array>
+    </resources>
