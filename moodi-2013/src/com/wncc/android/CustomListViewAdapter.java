@@ -1,8 +1,9 @@
-package com.customlistview;
+package com.wncc.android;
 
 import java.util.List;
 
-import com.customlistview.MainActivity.ListViewItem;
+import com.customlistview.R;
+import com.wncc.android.MainActivity.ListViewItem;
 
 import android.app.Activity;
 import android.content.Context;
