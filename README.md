@@ -13,3 +13,11 @@ usage
 Make sure it builds correctly and there are no errors left! <br>
 Enjoy \m/
 </ul>
+
+
+links
+-----
+
+The Actionbar Sherlock can be found here: https://github.com/JakeWharton/ActionBarSherlock  <br>
+The Sliding Menu which we are using is here: https://github.com/jfeinstein10/SlidingMenu
+
